@@ -1,5 +1,6 @@
 import time
 
+
 # Пример: вычисление последней цифры большого числа Фибоначчи
 def fib_last_digit(n):
     if n <= 1:
@@ -8,8 +9,9 @@ def fib_last_digit(n):
     previous, current = 0, 1
     for _ in range(2, n + 1):
         previous, current = current, (previous + current) % 10
-    
+
     return current
+
 
 # Чтение числа из файла
 with open('input.txt', 'r') as infile:
