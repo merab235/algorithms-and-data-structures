@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-lab_tasks = [1,2,3,4]
+lab_tasks = [1,2,3,4,5]
 
 for i in lab_tasks:
     os.chdir(f'lab{i}/')
