@@ -3,7 +3,9 @@
 - [ ] [Лабораторная работа №0. Введение](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab0)
 - [ ] [Лабораторная работа №1 Сортировка вставками, выбором, пузырьковая](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab1)
 - [ ] [Лабораторная работа №2: Сортировка слиянием. Метод декомпозиции](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab2)
-
+- [ ] [Лабораторная работа №3: Быстрая сортировка, сортировки за линейное время](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3)
+- [ ] [Лабораторная работа №4: Стек, очередь, связанный список](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4)
+- [ ] [Лабораторная работа №5: Деревья. Пирамида, пирамидальная сортировка. Очередь с приоритетами.](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5)
 ## Цели и задачи
 - Изучить основные команды Git                                                                                                  
 - Научиться создавать и управлять репозиториями
