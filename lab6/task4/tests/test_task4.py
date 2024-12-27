@@ -46,8 +46,8 @@ class Test(unittest.TestCase):
 
     def test_should_testing_task4_3(self):
         # given
-        data = ["7", "put pavel g", "delete pavel", "put pavel g", "put pavel g",
-                "next pavel", "put tima s", "next pavel"]
+        data = ["7", "put abakar g", "delete abakar", "put abakar g", "put abakar g",
+                "next abakar", "put tima s", "next abakar"]
         ans_to_check = ["<none>", "s"]
 
         # when

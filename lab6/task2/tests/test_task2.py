@@ -48,8 +48,8 @@ class Test(unittest.TestCase):
 
     def test_should_testing_task2_3(self):
         # given
-        data = [6, "add 123 pavel", "find 123", "del 123", "find 123",  "add 123 tima", "find 123"]
-        ans_to_check = ["pavel","not found","tima"]
+        data = [6, "add 123 Abakar", "find 123", "del 123", "find 123",  "add 123 tima", "find 123"]
+        ans_to_check = ["Abakar","not found","tima"]
 
         # when
         ans_get = task2(data)
