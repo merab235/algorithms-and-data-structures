@@ -1,5 +1,5 @@
 6
-add 123 pavel
+add 123 Abakar
 find 123
 del 123
 find 123
