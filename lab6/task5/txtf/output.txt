@@ -1,0 +1,6 @@
+fedora 5
+ivan 1
+lol 3
+petya 2
+tim 4
+trump 999

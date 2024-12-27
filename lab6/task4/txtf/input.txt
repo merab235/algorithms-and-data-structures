@@ -1,0 +1,8 @@
+7
+put pavel g
+delete pavel
+put pavel g
+put pavel g
+next pavel
+put tima s
+next pavel

@@ -1,0 +1,7 @@
+6
+add 123 pavel
+find 123
+del 123
+find 123
+add 123 tima
+find 123
